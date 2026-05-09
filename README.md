@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏥 Hackaxios Healthcare
+# 🏥 Healthcare
 
 ### *AI-Powered Digital Health Platform for Underserved Communities*
 
