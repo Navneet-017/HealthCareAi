@@ -149,7 +149,7 @@ npm run dev
 
 ```env
 # 🗄️ Database
-MONGODB_URI=mongodb://localhost:27017/hackaxios-healthcare
+MONGODB_URI=mongodb://localhost:27017/healthcareai
 
 # 🔐 Authentication
 NEXTAUTH_URL=http://localhost:3000
