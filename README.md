@@ -4,8 +4,6 @@
 
 ### *AI-Powered Digital Health Platform for Underserved Communities*
 
-<img src="https://img.shields.io/badge/🏆_Hackathon-2025-gold?style=for-the-badge" alt="Hackathon 2025"/>
-
 [![Next.js](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
@@ -175,7 +173,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 ## 📁 Project Structure
 
 ```
-Hackaxios-Healthcare/
+HealthCareAi
 ├── 📂 healthcare/                 # Main application
 │   ├── 📂 src/
 │   │   ├── 📂 app/               # Next.js App Router
@@ -316,6 +314,6 @@ If you find this project useful, please consider giving it a ⭐!
 
 ---
 
-<sub>© 2025 Hackaxios Healthcare. All rights reserved.</sub>
+<sub>©All rights reserved.</sub>
 
 </div>
