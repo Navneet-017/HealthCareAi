@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏥 Healthcare
+# 🏥 HealthCareAi
 
 ### *AI-Powered Digital Health Platform for Underserved Communities*
 
