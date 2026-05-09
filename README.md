@@ -27,7 +27,7 @@
 
 > **2.4 billion people** worldwide lack access to basic healthcare services. Language barriers, geographical isolation, and limited infrastructure create life-threatening gaps in medical care.
 
-**Hackaxios Healthcare** bridges this gap with an AI-powered platform that delivers:
+**HealthCareAi** bridges this gap with an AI-powered platform that delivers:
 - 🩺 Intelligent symptom analysis in **7+ languages**
 - 📹 Telemedicine consultations for remote areas
 - 📱 SMS-based health support for low-connectivity regions
