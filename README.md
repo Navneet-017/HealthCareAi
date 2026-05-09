@@ -310,7 +310,6 @@ If you find this project useful, please consider giving it a ⭐!
 ![For Healthcare](https://img.shields.io/badge/For-Healthcare-0066CC?style=for-the-badge)
 ![Open Source](https://img.shields.io/badge/Open-Source-brightgreen?style=for-the-badge)
 
-**🏆 Hackathon 2025 Project by Team Hackaxios**
 
 ---
 
