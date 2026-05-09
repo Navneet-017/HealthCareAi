@@ -131,8 +131,8 @@
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/your-username/Hackaxios-Healthcare.git
-cd Hackaxios-Healthcare/healthcare
+git clone https://github.com/Navneet-017/HealthCareAi.git
+cd HealthCareAi/healthcare
 
 # 2️⃣ Install dependencies
 npm install
@@ -269,7 +269,7 @@ We welcome contributions from the community! Here's how you can help:
 
 ---
 
-## 👥 Team Hackaxios
+## 👥 Team PixelPulse
 
 <div align="center">
 
